@@ -32,4 +32,4 @@ The experience of creating the game was very informative and helpful as it allow
 - How to create UI art for a Game
 
 ## Video
-[Tank Turn Up Trailer]()
+https://github.com/SageEkpang/TankTurnUp/blob/main/Tank.mp4
