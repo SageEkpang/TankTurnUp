@@ -15,7 +15,7 @@ Tank Turn Up is a 3D platformer third person game where you play as a tank that 
 ## Why I Created this Project
 This project was part of my College FYP (Final Year Project). We were tasked in creating a 3D platformer. I deviated from what others had created and instead created a 3D platformer that you played as a tank because I found it more innovative and unique compared 3D platformers that you play as a character. I also though that Tank were not used in the 3D platformer medium so I preffered to use a tank.
 
-The objects of the project were:
+The objectives of the project were:
 - Create a fun 3D platformer
 - Relate the game to the Client Brief
 - Make the game suitable for a younger audience
