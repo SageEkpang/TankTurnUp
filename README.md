@@ -33,4 +33,8 @@ The experience of creating the game was very informative and helpful as it allow
 
 ## Video
 
- [ ! [Video] ](https://github.com/SageEkpang/TankTurnUp/blob/main/Tank.mp4)
+
+
+https://user-images.githubusercontent.com/115160417/234509556-3b6804c2-0f44-43e5-b8c0-d17cbd874239.mp4
+
+
